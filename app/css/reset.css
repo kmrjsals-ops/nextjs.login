@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+*{margin: 0px; padding: 0px;}
+ul, li, ol{list-style: none;}
+a{text-decoration: none; color: #333;}
+body{
+	font-family: "맑은 고딕",Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333;
+}

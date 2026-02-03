@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+header >h1{
+	text-align: center;
+}
+main{
+	padding: 20px 0px;
+}
+footer{
+	background: #ccc;
+	color: #fff;
+}
+footer > address{
+	font-style: normal;
+	text-align: center; line-height: 40px;
+}
